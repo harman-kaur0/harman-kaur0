@@ -1,10 +1,10 @@
  Hi! 👋 
- I am a full Stack Developer with a background in pharmacy and biochemistry. 
- **Currently Learning: ** React Native, Redux, and MERN. 
+    I am a full Stack Developer with a background in pharmacy and biochemistry. 
+    
+   **Currently Learning: ** React Native, Redux, and MERN. 
 
+   **Connect With Me** 
 
-**Connect With Me** 
-![image](https://user-images.githubusercontent.com/78669293/129828370-17cb0955-7e5c-4b8c-955b-100a7f0b66da.png)
 
 
 - 🔭 I’m currently working on ...
