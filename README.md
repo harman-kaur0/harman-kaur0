@@ -1,5 +1,6 @@
  ### Hi! 👋 ###
- I am a full Stack Developer with a background in pharmacy and biochemistry who loves working with hooks and bootstrap. I strive to continue learning as I work on building innovative applications. 
+ *<div align="center">I am a full Stack Developer with a background in pharmacy and biochemistry who loves working with hooks and bootstrap.</div>*
+
 <hr/>
 
  ### Currently Learning 🙇‍♀️ ###
