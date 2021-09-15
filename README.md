@@ -1,21 +1,21 @@
- ### Hi! 👋 ###
+ ### Hi! 👋
  *<div align="center">I am a full Stack Developer with a background in pharmacy and biochemistry who loves working with hooks and bootstrap.</div>*
 
 <hr/>
 
- ### Currently Learning 🙇‍♀️ ###
+ ### Currently Learning 🙇‍♀️
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <hr/>
 
-### Connect With Me 📬 ### 
+### Connect With Me 📬
 * <a href = "mailto:harmandeepk628@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 *  <a href="https://www.linkedin.com/in/harmandeepks/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 * <a href="https://www.harmandeepk.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 <hr/>
 
-### Languages and Libraries  ###
+### Languages and Libraries
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
